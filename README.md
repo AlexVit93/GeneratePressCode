@@ -41,6 +41,3 @@ https://www.figma.com/design/QBr88cyXQua808743NiMZW/CaseRM-Landing-Page--Copy-?n
 
 ---
 
-
-Скажи куда пойдёт — README или портфолио.
-
