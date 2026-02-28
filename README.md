@@ -1,4 +1,38 @@
-# GeneratePressCode - last project by WordPress
+# GeneratePressCode — Latest WordPress Project
+
+## 🧾 Project Description
+
+A landing page for a web development service, built on WordPress using the GeneratePress theme and the Gutenberg block editor.
+
+The project was developed based on a Figma mockup: Gutenberg was used to build the page structure and sections, while custom CSS handled the precise design reproduction and visual details.
+
+**Figma link:**
+
+https://www.figma.com/design/QBr88cyXQua808743NiMZW/CaseRM-Landing-Page--Copy-?node-id=0-1&p=f#frame3 (see the third frame)
+
+## 📌 About the Project
+
+This is a marketing landing page showcasing web development services. The page includes:
+
+- Hero section with an offer and call-to-action
+- "How it works" block describing the process
+- Pricing section with service cards
+- Responsive layout for desktop and mobile
+
+The goal was to faithfully reproduce the Figma mockup while staying within WordPress's native ecosystem.
+
+## 🛠 Implementation Approach
+
+- Page structure fully built with Gutenberg
+- Base styles provided by the GeneratePress theme
+- Precise mockup alignment achieved through custom CSS
+- No page builders or additional layout plugins used
+
+## 🎯 Result
+
+A fully responsive landing page that matches the design mockup and demonstrates how to implement a custom interface in WordPress using only native tools and CSS. This repository contains the custom CSS code — if the page structure is recreated, the code can be applied immediately to display the page exactly as designed in Figma.
+
+---
 
 ## 🧾 Описание проекта
 
